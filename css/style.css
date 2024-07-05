@@ -115,7 +115,7 @@ button {
   position: absolute;
   width: 113px;
   border-top: 2px solid var(--main-color);
-  transform: translateY(-16px);
+  transform: translateY(-14px);
 }
 .menu li:nth-child(2) a:hover::before {
   width: 63px;
